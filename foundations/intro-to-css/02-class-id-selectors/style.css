@@ -1,0 +1,17 @@
+p {
+    background: rgba(236, 151, 179, 0.993);
+    font-family:  "Verdana", "DejaVu Sans", "sans-serif";
+    
+}
+.cooler{
+    font-size: 24px;
+}
+#two{
+    color: rgb(50, 50, 218);
+    font-size: 36px;
+}
+#four{
+    background-color: rgb(133, 235, 164);
+    font-size: 24px;
+    font-weight: bold;
+}
